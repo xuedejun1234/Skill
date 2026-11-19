@@ -1,0 +1,3 @@
+interface:
+  display_name: "Unity TMP 中文提示排版"
+  short_description: "配置 TMP 适龄长文本和中文换行"

@@ -16,5 +16,6 @@ Reusable skills installed in the user's local Codex skills directory. Each folde
 | `ponytail-review` | Review code changes specifically for unnecessary complexity. |
 | `reverse-engineer-anything` | Reverse engineer native, managed, web, and packaged artifacts with REA. |
 | `taptap-unity-sdk` | Integrate and troubleshoot TapTap Unity login, compliance, purchases, and builds. |
+| `unity-tmp-disclosure-layout` | Configure TMP disclosure text and Chinese punctuation wrapping in Unity. |
 
 Use a skill explicitly by naming it in the request, for example: `$taptap-unity-sdk`.
